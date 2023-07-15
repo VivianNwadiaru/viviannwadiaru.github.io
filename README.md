@@ -4,7 +4,7 @@
 
 *Cayman is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/cayman), or even [use it today](#usage).*
 
-![Thumbnail of Cayman](thumbnail.png)
+![Thumbnail of Cayman]((https://github.com/VivianNwadiaru/viviannwadiaru.github.io/blob/29038bc862328f60cd6cfd59fe2f5aa5ee6eebab/Gray%20and%20black%20minimalist%20Twitter%20Header%20(1).png))
 
 ## Usage
 
