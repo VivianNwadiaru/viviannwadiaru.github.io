@@ -109,11 +109,9 @@ a {
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
-  background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
-
-  @include large {
-    padding: 5rem 6rem;
-  }
+  background-image: url(https://github.com/VivianNwadiaru/viviannwadiaru.github.io/blob/master/Gray%20and%20black%20minimalist%20Twitter%20Header%20(1).png) 
+  background-size: 100% auto; 
+}
 
   @include medium {
     padding: 3rem 4rem;
